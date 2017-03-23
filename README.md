@@ -1,6 +1,12 @@
 # AttractMode-RomList_AutoCreate
 어트랙트모드 롬리스트 생성 프로그램
 
+<pre><code>
+1234
+</code></pre>
+
+![Alt text](사진링크)
+
 # Full Rom List Name
 
 * amstradcpc
