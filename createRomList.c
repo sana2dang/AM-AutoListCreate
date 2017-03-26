@@ -82,7 +82,7 @@ int main (int argc, char **argv)
 	
 	// 어트랙트모드 종료하기
 	system( "sudo kill -9 `ps -ef | grep attract | grep -v grep | awk '{ print $2 }'`" );
-	system( "clear" );
+	//system( "clear" );
 	
 	while( (em_entry = readdir(spDir)) != NULL )
 	{
