@@ -323,7 +323,11 @@ int main (int argc, char **argv)
 					fprintf(fNewCfg,"\tlayout\tPandoras Box\n");
 					fprintf(fNewCfg,"\tromlist\t%s\n",outputFileName );
 					fprintf(fNewCfg,"\tin_cycle\tyes\n" );
-					fprintf(fNewCfg,"\tin_menu\tyes\n\n" );
+					fprintf(fNewCfg,"\tin_menu\tyes\n" );
+					fprintf(fNewCfg,"\tfilter\tAll\n" );
+					fprintf(fNewCfg,"\tfilter\tFavourites\n" );
+					fprintf(fNewCfg,"\t\trule\tFavourite equals 1\n\n" );
+
 					fileCnt = 0;
 				}
 				
