@@ -344,11 +344,6 @@ int main (int argc, char **argv)
 	}
 	closedir( spDir );
 
-
-
-
-	
-
 	if( (fOldCfg= fopen( old_config_path, "r")) == NULL )			// old attract.cfg 파일 읽기
 		puts("error!");
 
