@@ -1,0 +1,13 @@
+agallet;에어 갈레;Cave;;;Banpresto / Gazelle;;2;;;;;;;;;
+ddonpach;도돈파치 (국제판);Cave;;;Atlus/Cave;;2;;;;;;;;;
+donpachi;돈파치 (미국판);Cave;;;Atlus/Cave;;2;;;;;;;;;
+esprade;ESP Ra.De. (국제판 버전 1998 4/22);Cave;;;Atlus/Cave;;2;;;;;;;;;
+feversos;피버 SOS (국제판);Cave;;;Cave (Nihon System license);;2;;;;;;;;;
+guwange;구완게 (일본판);Cave;;;Atlus/Cave;;2;;;;;;;;;
+hotdogst;핫도그 스톰;Cave;;;Marble;;2;;;;;;;;;
+mazinger;마징가 Z;Cave;;;Banpresto/Dynamic Pl. Toei Animation;;2;;;;;;;;;
+metmqstr;메타모케스터;Cave;;;Banpresto/Pandorabox;;2;;;;;;;;;
+plegends;파워 인스팅트 레전드 (미국판);Cave;;;Atlus/Cave;;2;;;;;;;;;
+progear;프로기어 (미국판 010117);Cave;;;캡콤, supported by Cave;;2;;;;;;;;;
+pwrinst2;파워 인스팅트 2 / 호혈사 일족 2 (미국판);Cave;;;Atlus/Cave;;2;;;;;;;;;
+sailormn;프리티 솔져 세일러 문 (95/03/22B);Cave;;;Banpresto;;2;;;;;;;;;
