@@ -17,4 +17,13 @@ sudo chmod 755 ./install.sh
 sudo ./install.sh
 </code></pre>
 
+* 게임 snap 및 marquee 경로
+> arcade, fba, mame-advmame, mame-mame4all, mame-libretro 인 경우
+>> /home/pi/RetroPie/roms/arcade/snap
+>> /home/pi/RetroPie/roms/arcade/marquee
+
+> 다른에뮬레이터
+>> /home/pi/RetroPie/roms/에뮬레이터명/snap
+>> /home/pi/RetroPie/roms/에뮬레이터명/marquee
+
 
