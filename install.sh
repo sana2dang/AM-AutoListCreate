@@ -14,7 +14,7 @@ sudo chmod 755 "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist
 sudo chgrp -v pi "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh"
 sudo chown -v pi "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh"
 
-sudo cp ./defalut_setting.cfg "/opt/retropie/configs/all/attractmode/"
+sudo cp ./default_setting.cfg "/opt/retropie/configs/all/attractmode/"
 sudo chmod 755 "/opt/retropie/configs/all/attractmode/default_setting.cfg"
 sudo chgrp -v pi "/opt/retropie/configs/all/attractmode/default_setting.cfg"
 sudo chown -v pi "/opt/retropie/configs/all/attractmode/default_setting.cfg"
