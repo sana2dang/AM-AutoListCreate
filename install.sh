@@ -10,10 +10,10 @@ sudo chmod -R 755 /opt/retropie/configs/all/attractmode/emulators
 sudo chgrp -R -v pi /opt/retropie/configs/all/attractmode/emulators
 sudo chown -R -v pi /opt/retropie/configs/all/attractmode/emulators
 
-sudo cp ./romlist_create.sh /opt/retropie/configs/all/attractmode/Attract Mode Setup
-sudo chmod 755 /opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh 
-sudo chgrp -v pi /opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh
-sudo chown -v pi /opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh
+sudo cp ./romlist_create.sh "/opt/retropie/configs/all/attractmode/Attract Mode Setup"
+sudo chmod 755 "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh"
+sudo chgrp -v pi "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh"
+sudo chown -v pi "/opt/retropie/configs/all/attractmode/Attract Mode Setup/romlist_create.sh"
 
 sudo cp ./createRomList /home/pi/dev/
 sudo chmod 755 /home/pi/dev/createRomList 
