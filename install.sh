@@ -25,3 +25,8 @@ sudo chmod 755 /home/pi/dev/createRomList
 sudo chgrp -v pi /home/pi/dev/createRomList 
 sudo chown -v pi /home/pi/dev/createRomList 
 
+sudo cp ./delRomList /home/pi/dev/
+sudo chmod 755 /home/pi/dev/delRomList
+sudo chgrp -v pi /home/pi/dev/delRomList
+sudo chown -v pi /home/pi/dev/delRomList
+
