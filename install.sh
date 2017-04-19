@@ -30,3 +30,5 @@ sudo chmod 755 /home/pi/dev/delRomList
 sudo chgrp -v pi /home/pi/dev/delRomList
 sudo chown -v pi /home/pi/dev/delRomList
 
+sudo cp -r './RABBITS Theme' /home/pi/.attract/layouts
+sudo cp -r './RABBITS Theme Category' /home/pi/.attract/layouts
