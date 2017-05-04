@@ -261,7 +261,7 @@ function deleteRom()
 	local emulator = "\""+ fe.game_info(Info.Emulator ) + "\"";	
 	local filename = "\""+ fe.game_info(Info.Name ) + "\"";	
 
-	local del_exec = "/home/dev/delRomList";
+	local del_exec = "/home/pi/dev/delRomList";
 //	local arg_exec = "\"" +emulator  + "\" \""  + filename + "\"";
 	local arg_exec = emulator  + " "+ filename;
 
