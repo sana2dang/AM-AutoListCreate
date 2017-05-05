@@ -3495,8 +3495,8 @@ Ys III - Wanderers from Ys (Korea);이스 3 - 원더러스 프롬 이스 (한글
 Densetsu no Ogre Battle - The March of the Black Queen (Korea);전설의 오우거 배틀 - 더 마치 오브 블랙 퀸 (한글판);Super Nintendo Entertainment System;;;에닉스;롤플레잉;1;;;;;;;;;
 Dai-3-ji Super Robot Taisen (Korea);제3차 슈퍼로봇대전 (한글판);Super Nintendo Entertainment System;;;반프레스토;롤플레잉;1;;;;;;;;;
 Dai-4-ji Super Robot Taisen (Korea);제4차 슈퍼로봇대전 (한글판);Super Nintendo Entertainment System;;;반프레스토;롤플레잉;1;;;;;;;;;
-Dai-4-ji Super Robot Taisen - ge 2(Korea);제 4차 슈퍼 로봇대전 - 改 2 (한글판);Super Nintendo Entertainment System;;;;;;;;;;;;;;
-Dai-4-ji Super Robot Taisen - ge 2 excel(Korea);제 4차 슈퍼 로봇대전 - 改 2 엑셀 (한글판);Super Nintendo Entertainment System;;;;;;;;;;;;;;
+Dai-4-ji Super Robot Taisen - ge 2 (Korea);제 4차 슈퍼 로봇대전 - 改 2 (한글판);Super Nintendo Entertainment System;;;;;;;;;;;;;;
+Dai-4-ji Super Robot Taisen - ge 2 excel (Korea);제 4차 슈퍼 로봇대전 - 改 2 엑셀 (한글판);Super Nintendo Entertainment System;;;;;;;;;;;;;;
 Legend of Zelda, The - A Link to the Past (Canada);젤다의 전설 - 신들의 트라이포스 (한글판);Super Nintendo Entertainment System;;;닌텐도;어드벤처;1;;;;;;;;;
 Juusou Kihei Valken (Korea);중장기병 발켄 (한글판);Super Nintendo Entertainment System;;;마사야;슈팅;1;;;;;;;;;
 Tenchi Souzou (Korea);천지창조 (한글판);Super Nintendo Entertainment System;;;에닉스;롤플레잉;1;;;;;;;;;
