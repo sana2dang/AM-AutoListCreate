@@ -3,9 +3,6 @@
 * tentacle team ( 텐타클팀 )
 > http://cafe.naver.com/raspigamer
 
-* thanks to 
-> 구퓌,영민,마이애니,별헤는마왕,김팬더,대왕별,losernator,엔젤
-
 * 적용img
 > RABBIT AM 에서 작동되도록 되어있습니다.( 현재 v1.1 )
 
